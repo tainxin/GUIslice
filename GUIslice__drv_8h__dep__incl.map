@@ -1,0 +1,11 @@
+<map id="src/GUIslice_drv.h" name="src/GUIslice_drv.h">
+<area shape="rect" id="node2" href="$XCheckbox_8c.html" title="src/elem/XCheckbox.c" alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node3" href="$XGauge_8c.html" title="src/elem/XGauge.c" alt="" coords="185,80,319,107"/>
+<area shape="rect" id="node4" href="$XGraph_8c.html" title="src/elem/XGraph.c" alt="" coords="344,80,473,107"/>
+<area shape="rect" id="node5" href="$XListbox_8c.html" title="src/elem/XListbox.c" alt="" coords="499,80,637,107"/>
+<area shape="rect" id="node6" href="$XSelNum_8c.html" title="src/elem/XSelNum.c" alt="" coords="662,80,804,107"/>
+<area shape="rect" id="node7" href="$XSlider_8c.html" title="src/elem/XSlider.c" alt="" coords="829,80,957,107"/>
+<area shape="rect" id="node8" href="$XSpinner_8c.html" title="src/elem/XSpinner.c" alt="" coords="982,80,1121,107"/>
+<area shape="rect" id="node9" href="$XTextbox_8c.html" title="src/elem/XTextbox.c" alt="" coords="1146,80,1288,107"/>
+<area shape="rect" id="node10" href="$GUIslice_8c.html" title="src/GUIslice.c" alt="" coords="1313,80,1420,107"/>
+</map>
